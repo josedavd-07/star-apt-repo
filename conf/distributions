@@ -1,0 +1,7 @@
+Origin: Star Language
+Label: Star Language
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Official repository for Star Language
+SignWith: yes
