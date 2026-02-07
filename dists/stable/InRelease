@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: Star Language
 Label: Star Language
 Codename: stable
-Date: Sat, 07 Feb 2026 00:41:57 UTC
+Date: Sat, 07 Feb 2026 01:38:12 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Official repository for Star Language
 MD5Sum:
- cd78cc2799e9b11d35324bde2055395c 469 main/binary-amd64/Packages
- e6865e7c2307eb039e28fc78a3990667 348 main/binary-amd64/Packages.gz
+ b1556651c20425056ca93794bf90f623 469 main/binary-amd64/Packages
+ 34ac0a44ab607e4758c4fca9aa47c20c 352 main/binary-amd64/Packages.gz
  47d1163e8514c45a3aaffd2c10d53abb 130 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
  27738a2615406012a6fe33ff79b02d1f 130 main/binary-arm64/Release
 SHA1:
- e89d58a7811b36a11f60e5d81ca67636ff1b7c71 469 main/binary-amd64/Packages
- 4818199d8f62419f7d608125a43d352f2a2c032b 348 main/binary-amd64/Packages.gz
+ e8ebb75fe06531f2b61af1b03a69467c7d1db348 469 main/binary-amd64/Packages
+ 48a0e0942cf801b7d2a0480a19fbdd0bb0b72fff 352 main/binary-amd64/Packages.gz
  ca75c9b2020ab1126266355e46e1c48d23707653 130 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
  5948815898b8dedc64119abb16a33c63607a68e7 130 main/binary-arm64/Release
 SHA256:
- cc99538d0adb40641e59744d0d473f21729fdc7d1b7c9d1fcaf65cfbb0b11ec6 469 main/binary-amd64/Packages
- 3fd968fbec0159c87999ced9e1b9e2dd5c142a1230913674112bfc4c17a32470 348 main/binary-amd64/Packages.gz
+ b130d80ae61f81e94dd8c2a2ba4317d8a73fd3c6643e10f93571d8466e1cbc2a 469 main/binary-amd64/Packages
+ f4ce43199a29887820200d8f1404a847fd6cd070a689baa270aa301922f40d8e 352 main/binary-amd64/Packages.gz
  7a646fe81bc31376ec79ff294d5db58b3e6e89b7886dd7a6f2daf59652a287cd 130 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
  78008612fad87adc0b5a93ccff5f5fa5597ad91e1b3a24bf018087e626df8084 130 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEZeydEz9rIlkXbmvPNoWnMaKzxvQFAmmGilUACgkQNoWnMaKz
-xvRC/w//cWF2yaF+rJOTMkmsPSYXigdX1mJXWeLaVs+0u+l00Zd5PhPz0xPpirGu
-cVN5LOWBPmxe1yTIle/VGfHbo2Qyyf1NQD+1vRK5Ouw7cpGcwfywk+4ITpR2luOV
-4USzr9o6k063RpyYBASQflbudLYuv7ekFPqFgHzA7VvjuN23KEV2173BPhCKqsC+
-D3mskrBXQTCUoctE2pn4cPfhVbnS5cFQOoFjtgLP5z6anFbs0nuuGz3Tdt1Dcysv
-A4KGmBWEAY/aetSo8/UsS3rKEC8SetQog+kJtjwxHQUlvwkrsvjH1tHynW2OhyTw
-8cGqaZedz9a2wj/ZPvMgrxG5LEIj92NUK+2BYoVVby1TLQIpGXWOlGKBwFqTT8e6
-BnUEh1g4QKcZ84QlM7ns3l4RB4qPpqY6QMBS5GY9+Nn1sdGgy1VVLsjjcUWERTYx
-bVIfZoizzFfBbfaRb2HUn3rA1DFuxHcyL5OW7+HGv8tEuUQGhSFdA+/vLOjtCfsD
-8tFJiFh+oGGAtQaqRScPPwtPVfiaJkUApmRO5j4wl8UjBLrYkkEWuDH3ZHqlvyNE
-kbUdQSMLmLQxIIJBmbvijIcsVBedZpmxUuEynduPMV2S8J6hhT8zUvS0LudUlkHo
-i3WEQfRApj/3RInJbJJYOpektK5serFJOhnjfd/I2OGJV158HDs=
-=YjdU
+iQIzBAEBCgAdFiEEZeydEz9rIlkXbmvPNoWnMaKzxvQFAmmGl4QACgkQNoWnMaKz
+xvTY7g/+JVXHTECH7sFN30DGAAjM2m96hV/+lnFRG7QHVxoR0upo26SOK5K1qnh0
+PqW82BjRcrdpJthJcD9s8cUkjqIO/o8mEEPZ4ybAjD93b5D9SCk9BSP1G8+N6kqx
+LC4ZUj+x0T90MX9CmVO2GWx0LmLHpfcXCPsKSCEZPVhXqfBT1csUVWBKkTPzHXLW
+4p09CYhktdQrpV7oIfBhJouzB/UhUDBwdob1Lh/dXs5kgxIkcrbY/2u7lxPJ+Ym/
+9HdXk8unmckusjpFr2qXbnzb7aivs+2NxvEnjEOjV85Ak7LXchsOV3S+R/R0AAZw
+T8kEEZZTUMA5CGM04hiSsJMfeb6aOIJ/5ZWJqYbsvNCWfycnsgAodwFVer8/xxFq
+QQ+AAYAusWwRZu5gQtnZ4pJBYL/tnQo0AeLJschE0VtDKWXfEFiIQb7SFd7dsnYY
+7dmKZcTPHylcmuuzSziZbP3N9DqB3SUGs923RNpkH/1ZkUvmTGxapyk57rALvlHz
+qYtOmaqE/TwoLd7pkIbwaBIUm4eX3XWeEszzK5idyUK3JKAatj5qUyJ7JwzEyw/Q
+Mk8MYDsmEhpbTYTj2VZWYombMqiO8PfimUqXtTPomeq6uLDcyGWQg9OrAjK7AVL1
+GYTnG8KR1GQzQqkby5XfgvECUVpc57QVEsyT2NRNk91Q3wl1ae4=
+=pReX
 -----END PGP SIGNATURE-----
