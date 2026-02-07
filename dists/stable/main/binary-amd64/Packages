@@ -1,0 +1,14 @@
+Package: star-language
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Jose David Carranza Angarita
+Priority: optional
+Section: devel
+Filename: pool/main/s/star-language/star-language_1.0.0_amd64.deb
+Size: 115033742
+SHA256: 9e18386077d2294fba68f7b98dfadf47a68646e0bbf79c7b48683d13125df498
+SHA1: 7b669d80bd1b2e37d19b84272683f28630e14721
+MD5sum: 50ab6135fb3c7e9842653dc4ca8c21e4
+Description: Star Language Compiler and Tools
+ A modern, space-themed programming language.
+

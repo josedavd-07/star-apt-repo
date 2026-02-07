@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Star Language
+Label: Star Language
+Codename: stable
+Date: Sat, 07 Feb 2026 00:06:18 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Official repository for Star Language
+MD5Sum:
+ 10b2a78f0b8792f8fadc34afe1358056 469 main/binary-amd64/Packages
+ 532cfceebc5c7c38143ab67f5be8a9cb 352 main/binary-amd64/Packages.gz
+ 47d1163e8514c45a3aaffd2c10d53abb 130 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 27738a2615406012a6fe33ff79b02d1f 130 main/binary-arm64/Release
+SHA1:
+ d2a40362ad166f7b79c7783543dfb5f1f7ab52bb 469 main/binary-amd64/Packages
+ 31eb989ed86b3d4235e335d27fb589e918b67862 352 main/binary-amd64/Packages.gz
+ ca75c9b2020ab1126266355e46e1c48d23707653 130 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 5948815898b8dedc64119abb16a33c63607a68e7 130 main/binary-arm64/Release
+SHA256:
+ 4996aef3d603788a1c5119591dc216e08c8aed32dd78494e890a8a9389bc18f5 469 main/binary-amd64/Packages
+ c9729b394c636e838b73a4c2d0c43017b0d6d93866cd6548d7bb3657da1b6693 352 main/binary-amd64/Packages.gz
+ 7a646fe81bc31376ec79ff294d5db58b3e6e89b7886dd7a6f2daf59652a287cd 130 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 78008612fad87adc0b5a93ccff5f5fa5597ad91e1b3a24bf018087e626df8084 130 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEZeydEz9rIlkXbmvPNoWnMaKzxvQFAmmGgfoACgkQNoWnMaKz
+xvQxow//cZdqS7QNUDsGd3g/VnAgtUw3m1OPEbfpbC5tLjkXjXKJ4aau+k6IRJjt
+MiN3BeX1RRIRLNSapPnXG/JYiC3f8k72HywTnkB9W3XPSPlP4mw0ygs3gmjDdQKs
+eeUkSyk6FdJCvQp64aO5n5d6Zd8lILkutfz+kAZMjFpMplWKdHgtPEtyJF8vNxBb
+IFo430qO6bhw0RTX6v5KG7c53ekGoMzTlhKV9uuGXzwkqigaEPDjLbKW3miQOjrn
+Sfr+bS02SvIrsZ0UIIpG4poi/2ay1FSfpW8xX4CJ99ATgjIond+3+DOZJXOGYgYG
+qOJO3xRGglMpxdqqLWBLhUDVNL9jtPy0MHdXkcmmW0OwdX38FuUf0YaKw8ouUnZY
+eN7VsarIxAlgp3BmACVoCaCgy6V10qhclWgm5cxXgDpq63oL3qefaJNrHbHzxReQ
+vnOi4VMwfpusHveORt1MgbOaKMC2zJPDoCTzeXG+rqBaYKoxPWwyWQ1zI5pYtgs2
+qn7zNHBvzyMazWGjG/fHKtIVek4uJOlqFtUyUNNE5T9Bj7ozSuyWy+PFpM7ar7mi
+aVsm9rEO3q5MST25iR4HZnGQ2UbMy0lLljGAo2I9gwr4qXVfsB32moce3bo2/WPh
+OCMOoL08wzEnM1zjEGEAOjzF/wrCYfF/hyhtJtwJ5UWlQRpDsQk=
+=1Sp/
+-----END PGP SIGNATURE-----
