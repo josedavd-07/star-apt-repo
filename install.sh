@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-REPO_URL="https://josedavd-07.github.io/star-apt-repo."
+REPO_URL="https://josedavd-07.github.io/star-apt-repo"
 GPG_KEY_URL="$REPO_URL/key.gpg"
 
 echo "🌟 Installing Star Language Repository..."

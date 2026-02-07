@@ -6,23 +6,23 @@ Official Debian/Ubuntu repository for the **Star Language** compiler and tools.
 
 ### 🐧 Linux (Debian/Ubuntu)
 ```bash
-curl -fsSL https://josedavd-07.github.io/star-apt-repo./install.sh | sudo bash
+curl -fsSL https://josedavd-07.github.io/star-apt-repo/install.sh | sudo bash
 ```
 
 ### 🪟 Windows (PowerShell)
 ```powershell
-iwr https://josedavd-07.github.io/star-apt-repo./install-windows.ps1 -useb | iex
+iwr https://josedavd-07.github.io/star-apt-repo/install-windows.ps1 -useb | iex
 ```
 
 ### 🍎 macOS (Homebrew)
 ```bash
-brew tap josedavd-07/star-apt-repo.
+brew tap josedavd-07/star-apt-repo
 brew install star
 ```
 
 ### 🍎 macOS (Manual)
 ```bash
-curl -fsSL https://josedavd-07.github.io/star-apt-repo./install-mac.sh | sudo bash
+curl -fsSL https://josedavd-07.github.io/star-apt-repo/install-mac.sh | sudo bash
 ```
 
 ---
